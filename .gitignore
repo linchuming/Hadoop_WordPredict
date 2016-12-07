@@ -1,0 +1,6 @@
+HelloHadoop.jar
+.idea
+input/news.xml
+output*
+tmp*
+*~
